@@ -4,7 +4,6 @@
 Este proyecto es un conversor de moneda básico, que realiza cambios entre dolares, quetzales y euros.
 
 ### Pre requisitos 
-1. Sudo apt update
-2. Sudo apt install build-essential
-3. gcc --version
+1. Debemos instalar: Sudo apt install build-essential
+2. Comando para el compilador de C: gcc --version
 
